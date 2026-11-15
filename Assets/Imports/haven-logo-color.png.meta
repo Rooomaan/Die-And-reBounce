@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: 264c0817a6578b74eb63db2c07220c94
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2752472082820899997
+    second: haven-logo-color_0
+  - first:
+      213: -1677145441177083884
+    second: haven-logo-color_1
+  - first:
+      213: 3222858915282877819
+    second: haven-logo-color_2
+  - first:
+      213: -5882293096366584698
+    second: haven-logo-color_3
+  - first:
+      213: -5149449519345659115
+    second: haven-logo-color_4
+  - first:
+      213: 8476461663013778676
+    second: haven-logo-color_5
+  - first:
+      213: 6065152564281510962
+    second: haven-logo-color_6
+  - first:
+      213: 7782858983879923978
+    second: haven-logo-color_7
+  - first:
+      213: -718327707315119912
+    second: haven-logo-color_8
+  - first:
+      213: 4542172528024403457
+    second: haven-logo-color_9
+  - first:
+      213: -2346661697331341731
+    second: haven-logo-color_10
+  - first:
+      213: -4939129234606514702
+    second: haven-logo-color_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: haven-logo-color_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 141
+        width: 69
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36bd74159314dc9d0800000000000000
+      internalID: -2752472082820899997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haven-logo-color_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 52
+        width: 460
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41069fd6b1599b8e0800000000000000
+      internalID: -1677145441177083884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haven-logo-color_2
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 204
+        width: 393
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7df2a6ab15e9bc20800000000000000
+      internalID: 3222858915282877819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haven-logo-color_3
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 141
+        width: 70
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68c46563895ed5ea0800000000000000
+      internalID: -5882293096366584698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haven-logo-color_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 97
+        width: 65
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5139892f1fa7988b0800000000000000
+      internalID: -5149449519345659115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haven-logo-color_5
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 42
+        width: 36
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f43728e8f072a570800000000000000
+      internalID: 8476461663013778676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haven-logo-color_6
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 35
+        width: 81
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23c8c866f10cb2450800000000000000
+      internalID: 6065152564281510962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haven-logo-color_7
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 97
+        width: 65
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a09de1fa205420c60800000000000000
+      internalID: 7782858983879923978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haven-logo-color_8
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 48
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d8592d81ccf706f0800000000000000
+      internalID: -718327707315119912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haven-logo-color_9
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 46
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ebe6949d9090f30800000000000000
+      internalID: 4542172528024403457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haven-logo-color_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 41
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d56dc829e9bfe6fd0800000000000000
+      internalID: -2346661697331341731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: haven-logo-color_11
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 4
+        width: 254
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd18873120b47bb0800000000000000
+      internalID: -4939129234606514702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      haven-logo-color_0: -2752472082820899997
+      haven-logo-color_1: -1677145441177083884
+      haven-logo-color_10: -2346661697331341731
+      haven-logo-color_11: -4939129234606514702
+      haven-logo-color_2: 3222858915282877819
+      haven-logo-color_3: -5882293096366584698
+      haven-logo-color_4: -5149449519345659115
+      haven-logo-color_5: 8476461663013778676
+      haven-logo-color_6: 6065152564281510962
+      haven-logo-color_7: 7782858983879923978
+      haven-logo-color_8: -718327707315119912
+      haven-logo-color_9: 4542172528024403457
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

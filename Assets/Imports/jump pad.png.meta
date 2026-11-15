@@ -1,0 +1,220 @@
+fileFormatVersion: 2
+guid: 039d28602c2f0654da6168b76b5c7784
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 778207604588471058
+    second: untitled 1_0
+  - first:
+      213: 172577629183026919
+    second: untitled 1_1
+  - first:
+      213: -5642226396643855089
+    second: untitled 1_2
+  - first:
+      213: 8456300529783210711
+    second: untitled 1_3
+  - first:
+      213: 9089878210803361425
+    second: untitled 1_4
+  - first:
+      213: -1680147659106481240
+    second: untitled 1_5
+  - first:
+      213: -2537836087278323017
+    second: untitled 1_6
+  - first:
+      213: -2499867662185204858
+    second: untitled 1_7
+  - first:
+      213: -9203852434265958004
+    second: untitled 1_8
+  - first:
+      213: -4680055805300106260
+    second: untitled 1_9
+  - first:
+      213: 7873286794245251856
+    second: untitled 1_10
+  - first:
+      213: 4665933895812365017
+    second: untitled 1_11
+  - first:
+      213: 2049699552751024934
+    second: untitled 1_12
+  - first:
+      213: -7738956492829335519
+    second: untitled 1_13
+  - first:
+      213: 7047585536203298225
+    second: untitled 1_14
+  - first:
+      213: 7168130384284655600
+    second: untitled 1_15
+  - first:
+      213: -1439302390770288142
+    second: untitled 1_16
+  - first:
+      213: 4212181996739455550
+    second: untitled 1_17
+  - first:
+      213: 7393981004874033946
+    second: untitled 1_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jump pad_0
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1000
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aeecd2e84ddb1a4c9665bad3d908326
+      internalID: -1850062628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump pad_1
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1000
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c7fa894b9cd6a44a1cfa1dbe9c2a33
+      internalID: 1949905397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f2c608157ebd50f4ba8b88f430856f4c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      jump pad_0: -1850062628
+      jump pad_1: 1949905397
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
