@@ -1,4 +1,4 @@
-Die and reBounce
+# Die and reBounce
 
 Reach the vault at the end, using trampolines (max 3 at the same time) which appear when you die.
 
