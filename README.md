@@ -8,6 +8,7 @@ Delete all trampolines with R.
 
 Itch.io link : https://rooomaan.itch.io/die-and-rebounce
 
+Made with unity 6.0
 Developped by Rooomaan and MarceauMRS
 
 thanks to HavenClub Lyon
